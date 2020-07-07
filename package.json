@@ -1,0 +1,20 @@
+{
+  "name": "kedro_grpc_node_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "grpc": "^1.24.3",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.mckinsey-solutions.com/Mayur-Chougule/kedro-grpc-node-client.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
