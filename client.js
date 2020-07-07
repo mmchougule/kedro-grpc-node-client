@@ -46,6 +46,8 @@ function getStatus(id) {
     });
 }
 
+var processName = process.argv.shift();
+var scriptName = process.argv.shift();
 var command = process.argv.shift();
 
 if (command == 'listp')
