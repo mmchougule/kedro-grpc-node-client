@@ -17,4 +17,4 @@ In your Kedro project:
 
 Kedro gRPC Server installation:
 
-https://git.mckinsey-solutions.com/Mayur-Chougule/kedro-grpc-server
+https://github.com/mmchougule/kedro-grpc-server
